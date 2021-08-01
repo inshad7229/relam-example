@@ -1,0 +1,6 @@
+module Pods_relam_relamTests {
+  umbrella header "Pods-relam-relamTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
